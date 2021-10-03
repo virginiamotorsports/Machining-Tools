@@ -1,0 +1,154 @@
+{
+    "data": [
+        {
+            "BMC": "carbide",
+            "description": "",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.12992125984252,
+                "HAND": true,
+                "LB": 2,
+                "LCF": 0.78740157480315,
+                "NOF": 2,
+                "OAL": 2.440944881889764,
+                "SFDM": 0.236220472440945,
+                "SIG": 140,
+                "shoulder-length": 1
+            },
+            "guid": "b379fdd6-b917-4da6-80d3-5216531642e7",
+            "last_modified": 1632410915357,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 17,
+                "length-offset": 17,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 17,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "<NEW TOOL GUID>",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.0025,
+                        "guid": "e715ea0b-555e-493b-8c67-2286752ce396",
+                        "n": 5880.051715686026,
+                        "name": "Galvanized Steel",
+                        "tool-coolant": "flood",
+                        "v_c": 200,
+                        "v_f_plunge": 14.700129289215065,
+                        "v_f_retract": 40
+                    }
+                ]
+            },
+            "type": "drill",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "description": "",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.115,
+                "HAND": true,
+                "LB": 1.968503937007874,
+                "LCF": 0.276,
+                "NOF": 3,
+                "NT": 10,
+                "OAL": 2,
+                "SFDM": 0.125,
+                "TP": 0.0275591,
+                "shoulder-length": 1.181102362204724,
+                "thread-profile-angle": 60
+            },
+            "guid": "4faeff38-d11f-4ba1-a3a5-44429966c0c8",
+            "last_modified": 1632413034709,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 20,
+                "length-offset": 20,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 20,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "<NEW TOOL GUID>",
+            "start-values": {
+                "presets": [
+                    {
+                        "f_n": 0.001333333333333,
+                        "f_z": 0.00028,
+                        "guid": "a17b2a8b-bfb6-44e3-b583-6994e50555e2",
+                        "n": 10000,
+                        "n_ramp": 10000,
+                        "name": "Default preset",
+                        "tool-coolant": "flood",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 301.0692959690218,
+                        "v_f": 8.4,
+                        "v_f_leadIn": 8.4,
+                        "v_f_leadOut": 8.4,
+                        "v_f_plunge": 13.333333333333336,
+                        "v_f_ramp": 13.333333333333336
+                    }
+                ]
+            },
+            "type": "thread mill",
+            "unit": "inches",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "description": "",
+            "geometry": {
+                "CSP": false,
+                "DC": 0.15748031496063,
+                "LB": 1.968503937007874,
+                "LCF": 0.45,
+                "NOF": 3,
+                "OAL": 1.968503937007874,
+                "SFDM": 0.15748031496063,
+                "TP": 0.02755905511811,
+                "shoulder-length": 1.181102362204724
+            },
+            "guid": "e9f54385-9c12-4f19-b78a-a940b1f55cf1",
+            "last_modified": 1632451407112,
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "reference_guid": "<NEW TOOL GUID>",
+            "start-values": {
+                "presets": [
+                    {
+                        "guid": "57b397cc-e829-4b5a-9203-171b928271a4",
+                        "n": 1000,
+                        "name": "Steel",
+                        "tool-coolant": "flood",
+                        "v_c": 41.22825004711016
+                    }
+                ]
+            },
+            "type": "tap right hand",
+            "unit": "inches",
+            "vendor": ""
+        }
+    ],
+    "version": 13
+}
